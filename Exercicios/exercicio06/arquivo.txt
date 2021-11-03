@@ -1,0 +1,2 @@
+Comprimento da frase: 16
+Quantas vezes aparece o termo tes: 1
